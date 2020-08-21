@@ -1,3 +1,6 @@
 # Lasp-Browser
 LaspBrowser 
-Testing browser in its first version, early development lack create more user-friendly interface, update its functions. Code is in the testing branch.
+Testing browser in its first version.
+There is a need to develop a better interface 
+Update its functions. 
+Code is in the testing branch.
